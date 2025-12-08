@@ -1,7 +1,11 @@
-## Hi there 👋
+## Welcome there :japanese_castle:
 
-* Je suis un développeur spécialisé dans le Python, mais j’ai également travaillé avec PHP, JavaScript et C# dans le cadre de divers projets
-* Je conçois et développe des solutions end-to-end : recueil du besoin, design, développement, tests
-* Sur mon github, vous trouverez deux types de projets : des projets personnels / académiques, et des projets techniques inspirés de cas réels rencontrés en entreprise
+:bust_in_silhouette: Who am I : Python developer with a problem-solving approach
 
-:man: Python developer with a problem-solving approach
+:computer: Main Python Skills : Scripting & Automation, Data Processing, APIs & Web, Lightweight Interfaces / Apps
+
+:scroll: My approach : understand user's needs :arrow_right: design the right solution :arrow_right: build it :arrow_right: test it :arrow_right: deliver clear documentation
+
+:open_file_folder: Github projects : personal projects in various languages and anonymized python examples based on real use cases I've worked on
+
+:exclamation: Currently open for small Python freelance work
