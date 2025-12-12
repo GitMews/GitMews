@@ -26,7 +26,7 @@
 → [View example](#) – Data extraction from websites using `requests`, `BeautifulSoup` and `pandas`.
 
 🧩 **Lightweight APIs & backends**  
-→ [View example](#) – Minimal web API built with `FastAPI`, including routing, input validation and local SQLite DB.
+→ [View example](https://github.com/GitMews/dataset_api) – Minimal web API built with FastAPI, featuring routing, API key authentication, and SQL database access.
 
 
 
