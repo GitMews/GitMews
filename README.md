@@ -20,7 +20,7 @@
 → [View example](https://github.com/GitMews) – Clean Excel reports generated from raw CSV files using `pandas`, `openpyxl` and `matplotlib`.
 
 🤖 **Automation & scripting**  
-→ [View example](#) – Workflow automation and custom bots using `Python`, `os`, `subprocess`, `schedule`, etc.
+→ [View example](https://github.com/GitMews/directory_cleaner) – Automated directory cleanup script with logging, keyword-based alerts, and systemd-ready execution.
 
 🌐 **Web scraping / data mining**  
 → [View example](#) – Data extraction from websites using `requests`, `BeautifulSoup` and `pandas`.
