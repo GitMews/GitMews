@@ -22,8 +22,8 @@
 🤖 **Automation & scripting**  
 → [View example](https://github.com/GitMews/directory_cleaner) – Automated directory cleanup script with logging, keyword-based alerts, and systemd-ready execution.
 
-🌐 **Web scraping / data mining**  
-→ [View example](#) – Data extraction from websites using `requests`, `BeautifulSoup` and `pandas`.
+🌐 **Data generation & frontend**  
+→ [View example](https://github.com/GitMews/data_generator_app) – Web app to generate time-series CSV data using `pandas` through a simple `streamlit` interface.
 
 🧩 **Lightweight APIs & backends**  
 → [View example](https://github.com/GitMews/dataset_api) – Minimal web API built with `FastAPI`, featuring routing, API key authentication, and SQL database access.
