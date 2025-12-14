@@ -17,7 +17,7 @@
 ### Freelance capabilities
 
 📊 **Data analysis & reporting**  
-→ [View example](https://github.com/GitMews) – Clean Excel reports generated from raw CSV files using `pandas`, `openpyxl` and `matplotlib`.
+→ [View example](https://github.com/GitMews/api_data_reporter) – Excel reports generated from public API data using `pandas` and `openpyxl`, with clean data exctraction.
 
 🤖 **Automation & scripting**  
 → [View example](https://github.com/GitMews/directory_cleaner) – Automated directory cleanup script with logging, keyword-based alerts, and systemd-ready execution.
@@ -26,7 +26,7 @@
 → [View example](#) – Data extraction from websites using `requests`, `BeautifulSoup` and `pandas`.
 
 🧩 **Lightweight APIs & backends**  
-→ [View example](https://github.com/GitMews/dataset_api) – Minimal web API built with FastAPI, featuring routing, API key authentication, and SQL database access.
+→ [View example](https://github.com/GitMews/dataset_api) – Minimal web API built with `FastAPI`, featuring routing, API key authentication, and SQL database access.
 
 
 
