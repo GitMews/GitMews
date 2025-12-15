@@ -48,3 +48,7 @@ Feel free to contact me if you’re looking for a clean and well-designed Python
 ---
 
 ### 📬 Contact
+
+**📧 Email** – mews.freelance@gmail.com
+
+**🧾 Malt** – coming soon
