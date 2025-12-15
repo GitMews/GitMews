@@ -1,25 +1,22 @@
 ## :japanese_castle: Welcome There
 
-### :bust_in_silhouette: Who am I
-Python developer with a problem-solving approach, focused on simple and reliable technical solutions
+**:bust_in_silhouette:Who am I** - Python developer with a problem-solving approach, focused on simple and reliable technical solutions
 
-### :computer: Main Python Skills
-Scripting & Automation, Data Processing, APIs & Web, Lightweight Interfaces / Apps
+**:computer:Main Python Skills** - Scripting & Automation, Data Processing, APIs & Web, Lightweight Interfaces / Apps
 
-### :scroll: My approach
+**:scroll: My approach**
 
-:arrow_right: Understand customer's needs 
+→ Understand customer's needs 
 
-:arrow_right: Design the right solution 
+→ Design the right solution 
 
-:arrow_right: Build it cleanly
+→ Build it cleanly
 
-:arrow_right: Test it properly
+→ Test it properly
 
-:arrow_right: Deliver clear code & documentation
+→ Deliver clear code & documentation
 
-### :exclamation: Availability
-Currently open for small Python freelance projects and short-term missions
+**:exclamation: Availability** - Currently open for small Python freelance projects and short-term missions
 
 
 
