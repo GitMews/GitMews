@@ -1,20 +1,34 @@
-## Welcome There :japanese_castle:
+## :japanese_castle: Welcome There
 
-:bust_in_silhouette: Who am I : Python developer with a problem-solving approach
+### :bust_in_silhouette: Who am I
+Python developer with a problem-solving approach, focused on simple and reliable technical solutions
 
-:computer: Main Python Skills : Scripting & Automation, Data Processing, APIs & Web, Lightweight Interfaces / Apps
+### :computer: Main Python Skills
+Scripting & Automation, Data Processing, APIs & Web, Lightweight Interfaces / Apps
 
-:scroll: My approach : understand customer's needs :arrow_right: design the right solution :arrow_right: build it :arrow_right: test it :arrow_right: deliver clear documentation
+### :scroll: My approach
 
-:exclamation: Currently open for small Python freelance work
+:arrow_right: Understand customer's needs 
+
+:arrow_right: Design the right solution 
+
+:arrow_right: Build it cleanly
+
+:arrow_right: Test it properly
+
+:arrow_right: Deliver clear code & documentation
+
+### :exclamation: Availability
+Currently open for small Python freelance projects and short-term missions
 
 
 
-### Main Tech Stack 
+### 🛠️ What I build with
+Technologies I use regularly to build small, reliable Python solutions — from data to deployment
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### Freelance capabilities
+### 🚀 Freelance capabilities
 
 📊 **Data analysis & reporting**  
 → [View project](https://github.com/GitMews/api_data_reporter) – Excel reports generated from public API data using `pandas` and `openpyxl`, with clean data exctraction.
