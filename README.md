@@ -51,4 +51,4 @@ Feel free to contact me if you’re looking for a clean and well-designed Python
 
 **📧 Email** – mews.freelance@gmail.com
 
-**🧾 Malt** – coming soon
+**🧾 Malt** – https://www.malt.fr/profile/raphaelcoez
